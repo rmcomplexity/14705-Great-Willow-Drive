@@ -1,0 +1,17 @@
+site_name: 14705 Great Wilow Drive
+site_url: http://localhost
+copyright: Copyright &copy; 2025 14705 Great Willow Drive
+plugins:
+  - social
+  # - search
+theme:
+  name: material
+  custom_dir: overrides
+  palette:
+    primary: teal
+    accent: indigo
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/14704GreatWillowDrive
