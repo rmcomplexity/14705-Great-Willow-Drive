@@ -13,11 +13,21 @@ theme:
   palette:
     primary: teal
     accent: indigo
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
 extra:
   generator: false
   social:
     - icon: fontawesome/brands/instagram
-      link: https://instagram.com/14704GreatWillowDrive
+      link: https://instagram.com/14705GreatWillowDrive
+      name: IG @14705GreatWillowDrive
+    - icon: material/email
+      link: mailto:<contact@14705GreatWillowDrive.com>
+      name: contact@14705GreatWillowDrive.com 
+    - icon: material/phone
+      link: tel:+15121231234
+      name: phone number 5121231234
 markdown_extensions:
   - attr_list
   - pymdownx.emoji:
