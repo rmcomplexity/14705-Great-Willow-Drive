@@ -6,6 +6,9 @@ plugins:
   # - search
 theme:
   name: material
+  icon:
+    logo: fontawesome/solid/house
+  favicon: assets/images/favicon.png
   custom_dir: overrides
   palette:
     primary: teal
@@ -15,3 +18,8 @@ extra:
   social:
     - icon: fontawesome/brands/instagram
       link: https://instagram.com/14704GreatWillowDrive
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
