@@ -33,6 +33,11 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+extra_css:
+  - styles/main.css
+extra_javascript:
+  - js/fslightbox.js
 nav:
   - "Application Form": index.md
   - "Contact Us": contact.md
+  - "About This Home": about-this-home.md

@@ -2,6 +2,9 @@
 title: How to Contact Us
 description: Ways to contact us
 icon: fontawesome/solid/contact-book
+hide:
+  - navigation
+  - toc
 ---
 # :fontawesome-solid-contact-book: Contact us!
 

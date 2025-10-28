@@ -7,25 +7,26 @@ hide:
   - toc
 ---
 # Family owned Home Rental
+
+<div class="image-gallery">
+    <a data-fslightbox href="/images/img1.jpg" class="main-image">
+      <img src="/images/img1.jpg"/>
+    </a>
+    <div class="image-gallery-thumbnails">
+        <a data-fslightbox href="/images/img2.jpg">
+          <img src="/images/img2.jpg" class="thumbnail"/>
+        </a>
+        <a data-fslightbox href="/images/img3.jpg">
+          <img src="/images/img3.jpg" class="thumbnail"/>
+        </a>
+        <a data-fslightbox href="/images/img4.jpg">
+          <img src="/images/img4.jpg" class="thubmnail"/>
+        </a>
+    </div>
+</div>
+
+---------------------------------------------------------------
 <style>
-.application-form-custom .form-all {
-  maring: auto;
-  padding: 3px;
-  max-width: 100%;
-}
-
-.application-form-custom .form-all ul.form-section {
-  margin-left: 0;
-}
-
-.application-form-custom .form-all ul.form-section li{
-  margin-left: 0;
-}
-
-.md-social__link {
-  width: auto;
-  font-size: small;
-}
 </style>
 <div class="application-form-custom">
 <script>window.enableEventObserver=true</script>
