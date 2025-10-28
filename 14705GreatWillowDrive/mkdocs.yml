@@ -21,15 +21,18 @@ extra:
   social:
     - icon: fontawesome/brands/instagram
       link: https://instagram.com/14705GreatWillowDrive
-      name: IG @14705GreatWillowDrive
+      name: "@14705GreatWillowDrive"
     - icon: material/email
       link: mailto:<contact@14705GreatWillowDrive.com>
       name: contact@14705GreatWillowDrive.com 
     - icon: material/phone
       link: tel:+15121231234
-      name: phone number 5121231234
+      name: +1 (512) 123-1234
 markdown_extensions:
   - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+nav:
+  - "Application Form": index.md
+  - "Contact Us": contact.md

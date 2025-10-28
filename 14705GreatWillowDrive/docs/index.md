@@ -6,16 +6,25 @@ hide:
   - navigation
   - toc
 ---
-# Welcome!
-
-Stop looking for another rental!
-
-14705 Great Willow Drive is perfect for you!
+# Family owned Home Rental
 <style>
 .application-form-custom .form-all {
   maring: auto;
-  padding: 0;
+  padding: 3px;
   max-width: 100%;
+}
+
+.application-form-custom .form-all ul.form-section {
+  margin-left: 0;
+}
+
+.application-form-custom .form-all ul.form-section li{
+  margin-left: 0;
+}
+
+.md-social__link {
+  width: auto;
+  font-size: small;
 }
 </style>
 <div class="application-form-custom">
