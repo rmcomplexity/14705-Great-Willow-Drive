@@ -1,0 +1,53 @@
+.application-form-custom .form-all {
+  maring: auto;
+  padding: 3px;
+  max-width: 100%;
+}
+
+.application-form-custom .form-all ul.form-section {
+  margin-left: 0;
+}
+
+.application-form-custom .form-all ul.form-section li{
+  margin-left: 0;
+}
+
+.md-social .md-social__link {
+  width: auto;
+  height: auto;
+  font-size: small;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 3px;
+}
+
+.image-gallery {
+	display: flex;
+	justify-content: center; /* align horizontal */
+	align-items: center; /* align vertical */
+	flex-flow: column wrap;
+}
+
+
+.image-gallery a {
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+.image-gallery .main-image {
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	margin-bottom: 10px;
+}
+
+.image-gallery .main-image img {
+	width: 50%;
+}
+
+.image-gallery .image-gallery-thumbnails {
+	display: flex;
+	flex-flow: row;
+}
+
