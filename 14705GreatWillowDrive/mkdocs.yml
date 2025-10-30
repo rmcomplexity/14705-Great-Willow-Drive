@@ -2,7 +2,10 @@ site_name: 14705 Great Wilow Drive
 site_url: http://localhost
 copyright: Copyright &copy; 2025 14705 Great Willow Drive
 plugins:
-  - social
+  - social:
+      cards_layout_options:
+        cards_layout: default/invert
+        background_image: docs/images/img1.jpg
   # - search
 theme:
   name: material
@@ -19,15 +22,15 @@ theme:
 extra:
   generator: false
   social:
-    - icon: fontawesome/brands/instagram
-      link: https://instagram.com/14705GreatWillowDrive
-      name: "@14705GreatWillowDrive"
+#    - icon: fontawesome/brands/instagram
+#      link: https://instagram.com/14705GreatWillowDrive
+#      name: "@14705GreatWillowDrive"
     - icon: material/email
       link: mailto:<contact@14705GreatWillowDrive.com>
       name: contact@14705GreatWillowDrive.com 
     - icon: material/phone
-      link: tel:+15121231234
-      name: +1 (512) 123-1234
+      link: tel:5126938679
+      name: (512) 693-8679
 markdown_extensions:
   - def_list
   - attr_list

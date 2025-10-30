@@ -57,14 +57,16 @@ hide:
 : 2 - Full Bathrooms.
 :  Both badrooms with new sinks, toilets, bath tub and tempered glass door.
 
-:material-air-conditioner: Air Conditioner
+:material-air-conditioner: Air Conditioner & Heater
 : Central. Heating and Cooling.
+: Natural gas water heater.
 
 :material-fireplace: Fireplace
 : Yes, wood burning.
 
 :material-car: Parking
 : Attached 2 car garage.
+: Inside entrance. Parking access to kitchen. Front facing garage.
 
 :material-tools: Construction
 : Wood Frame, slab foundation, shingle roof.
@@ -75,15 +77,21 @@ hide:
 :material-grass: Patio
 : Private patio with direct green belt view.
 
-:fontawesome-solid-kitchen-set: Kitchen
-: Gas Range, Dishwasher, Disposal, Fridge
+:fontawesome-solid-kitchen-set: Kitchen & Appliances
+: Gas Range with convection oven and extractor hood, Dishwasher, Disposal, Fridge.
+: Breakfast bar, eat-in kitchen. Open to living room.
 
 :material-floor-plan: Floor plan & flooring
 : Single story, no interior steps.
-: Vinyl Laminated flooring
+: Vinyl Laminated flooring. No carpet.
 
 :material-security: Security and Safety
 : Smoke detectors, Smart thermostat, Fire extinguisher.
+
+::material-lightbulb: Utilities
+: Natural Gas, connected.
+: Municipal Utilities District (MUD) for Water, Sewer and Trash collection.
+: Optic fiber and high speed internet providers available. Tenant is in charge of setting up this service.
 </div>
 
 ## Finances
